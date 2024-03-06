@@ -1,0 +1,47 @@
+OPERADORES LOGICOS
+==, &&, ||, !
+
+EVA_2_OPERADORES_LOGICOS
+
+LOGICA BOOLEANA
+AND OR NOT  
+
+AND	 Y  
+
+OR	O 
+
+NOT     NO
+
+
+trabajamos con true or false 
+
+boolean valBol1, valBol2;
+valBol1 = false;
+valBol2 = false;
+boolean resu;
+//OPERADOR AND --arrow &&
+resu valBol1 && valBol2;
+System.out.println ("Resu = " + resu)
+
+OPERADORES ARIMETICOS:
+
++-* / += -= /=
+
+
+ESTRUCTURAS DE CONTROL
+
+Para controlar el flujo del programa 
+
+if --> si (condicional)
+
+switch (opciones)
+
+rojo cuesta 200
+azul cuesta 700
+
+COMPARACIONES LOGICAS
+
+== --> IGUALDAD 
+
+EVA2_3_IF
+
