@@ -1,0 +1,23 @@
+EVA2_7_PAR_IMPAR
+
+
+4/2=2 
+
+8/2=4 -- > el 2 cabe 4 veces y queda de residuo 0 par 
+
+5/2 --> el dos cabe 2 veces, y queda de residuo 1 impar
+
+ 
+EVA2_8_VOLADO
+
+EVA2_9_VOLADO2 TAREA
+Pedir a la usuario cara o cruz. Si introduce 1=cara, 2= cruz. 
+
+pedir a la usuario cara o cruz enfasis.
+
+
+usar if else 
+y moneda math random 
+
+intentar adivinar que egenera la moneda Cara o cruz 
+
