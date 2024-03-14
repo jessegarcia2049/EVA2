@@ -1,0 +1,47 @@
+EVA2_11_OPERADORES_LOGICOS
+public class EVA2_11_OPERADORES_LOGICOS {
+
+   
+boolean hayDinero, hayBuenClima;
+// para hacer la carne asada we need:
+//haya dinero y haya buen clima
+
+hayDinero = false;
+hayBuenClima = false;
+
+ System.out.println("1. NO HAY DINERO Y NO HAY BUEN CLIMA");
+if ((hayDinero == true) && (hayBuenClima == true))
+            System.out.println("SE ARMO LA CARNITA!!");
+else
+            System.out.println("HUEVO CON FRIJOLES");
+
+hayDinero = false;
+hayBuenClima = true;
+
+        System.out.println("2. NO HAY DINERO PERO HAY BUEN CLIMA");
+if ((hayDinero == true) && (hayBuenClima == true))
+            System.out.println("SE ARMO LA CARNITA!!");
+else
+            System.out.println("HUEVO CON FRIJOLES");
+hayDinero = false;
+hayBuenClima = true;
+
+        System.out.println("3. HAY DINERO PERO NO HAY BUEN CLIMA");
+if ((hayDinero == true) && (hayBuenClima == true))
+            System.out.println("SE ARMO LA CARNITA!!");
+else
+            System.out.println("HUEVO CON FRIJOLES");
+
+    System.out.println("4. HAY DINERO Y HAY BUEN CLIMA");
+if ((hayDinero == true) && (hayBuenClima == true))
+            System.out.println("SE ARMO LA CARNITA!!");
+else
+            System.out.println("HUEVO CON FRIJOLES");
+
+
+SERVICIO SOCIAL
+
+Semestre 6 o superior 
+50% creditos --> 150 
+
+EVA2_12_SERVICIO_SOCIAL
